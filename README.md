@@ -1,6 +1,6 @@
 # Test Cases for Facebook Login Page
 
-This portfolio project provides a set of functional test cases for the Facebook "Login" page.
+This project provides a set of functional test cases for the Facebook "Login" page.
 
 ## Tools Used - Google Sheets
 
